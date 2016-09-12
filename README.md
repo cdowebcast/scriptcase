@@ -12,4 +12,5 @@ Open Sans Font is a humanist sans serif typeface designed by Steve Matteson. Ope
 Available Offline and Online: https://fonts.google.com/specimen/Open+Sans
 
 # software
-Scriptcase enables you to design, develop and deploy beautiful, responsive, database-driven applications using only your web browser. A powerful PHP generator for you to develop fast, simple, secure and with a low cost. http://scriptcase.net
+Scriptcase enables you to design, develop and deploy beautiful, responsive, database-driven applications using only your web browser. A powerful PHP generator for you to develop fast, simple, secure and with a low cost. 
+More info: http://scriptcase.net
