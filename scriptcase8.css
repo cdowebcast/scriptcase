@@ -695,7 +695,6 @@ table th[class*=col-] {
     height: 32px;
     font-family: Open Sans, Arial;
     font-size: 13px !important;
-    overflow: hidden;
 }
 .margemmiolo {
     padding: 5px;
