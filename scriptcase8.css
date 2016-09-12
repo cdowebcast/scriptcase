@@ -695,6 +695,7 @@ table th[class*=col-] {
     height: 32px;
     font-family: Open Sans, Arial;
     font-size: 13px !important;
+    overflow: hidden;
 }
 .margemmiolo {
     padding: 5px;
@@ -1179,7 +1180,7 @@ td.nmAppSTableTitleValue {
     display: inline;
     cursor: pointer;
     list-style: none;
-    padding: 9px 25px 0px 10px;
+    padding: 9px 10px 0px 10px;
     position: relative;
     height: 27px;
     font-size: 12px
