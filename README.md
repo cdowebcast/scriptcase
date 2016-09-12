@@ -1,5 +1,7 @@
 # scriptcase css
-Custom ScriptCase User Interface
+Custom ScriptCase User Interface (CSS)
+
+* This is created for personal use only. Use is at your own risk.
 
 # screenshot
 Before: http://prntscr.com/cgzc7l
