@@ -1215,7 +1215,7 @@ ul.topnav li ul:last-child {
 }
 .topnav_first {
     height: 20px !important;
-    padding: 8px 25px 4px 10px !important;
+    padding: 8px 10px 4px 10px !important;
 }
 #topnav li:hover {
     color: #333333;
